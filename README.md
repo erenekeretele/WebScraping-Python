@@ -3,6 +3,9 @@ This project allows you to monitor the price of a product on Amazon and receive 
 
 ## Features
 Scrapes the product title and price from an Amazon product page.
+
 Logs product price data into a CSV file with a timestamp.
+
 Sends an email notification when the price drops below a specified threshold.
+
 Runs continuously, checking the price every hour.
